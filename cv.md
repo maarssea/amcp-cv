@@ -1,5 +1,5 @@
 # Nozdrina Maria
-<img src="https://github.com/maarssea/amcp-cv/blob/gh-pages/IMG_0391.jpg" width="300" height="592">
+![image alt][https://github.com/maarssea/amcp-cv/blob/602b00d436f93cf6a3f31e9f348dda1ace5b1cfa/IMG_0391.jpg]
 
 > ### ***contacts:***
 `email: nm8113720@gmail.com`
